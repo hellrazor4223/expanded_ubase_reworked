@@ -1,0 +1,9 @@
+#Expanded Ubase Reworked by hellrazor
+
+Intall instructions:
+ - Go to your Mod folder and delete the old "Expanded_Ubase_Rework" directory.
+ - Extract Zip file
+ - Copy over the directory "Expanded_Ubase_Rework" in your user mods directory.
+ - Active "Expanded_Ubase_Rework" under Mods
+
+Requiered: openxcom_git_master_2015_05_07_1605 or newer

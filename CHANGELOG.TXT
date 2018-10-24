@@ -1,0 +1,24 @@
+Changelog:
+
+Version 1.3
+ - Adjusted Ruleset to lastest changes in : openxcom_git_master_2016_06_15_0013
+
+Version 1.2
+ - Converted Ruleset to directory structure
+ - Slight redesign of UBASE_2c
+
+Version 1.1
+ - Fix South Double Door and some minor error for UBASE_21
+ - Fix wrong Spawnasignment UBASE_21 (large unit in labroom)
+ - Repacked Mod for: openxcom_git_master_2015_05_07_1605
+ - added metadat.yml
+ - added README.TXT
+ - added CHANGELOG.TXT
+
+Version 1.0
+ - Converted old Ruleset to new mapscripting standard
+ - UBASE_2.MCD corruption fix (thanks to Hobbes)
+ - MAP routing/nodes check, fix and rework where neccessary
+ - Fix wrong placed tiles in a varienty of MAPs
+ - Added replace for former clone Lab for modified Clone lab (UBASE_21)
+ - Added replace for module without purpose against Food Storage processing (UBASE_2c)

@@ -1,0 +1,190 @@
+terrains:
+  - name: UBASE
+    mapDataSets:
+      - BLANKS
+      - U_BASE
+      - U_WALL02
+      - U_PODS
+      - BRAIN
+      - U_BASE2
+      - U_DISEC2
+      - U_OPER2
+    mapBlocks:
+#BEGIN TUNNELS
+      - name: UBASE_07
+        width: 10
+        length: 10
+        groups: 1
+      - name: UBASE_07b
+        width: 10
+        length: 10
+        groups: 1
+      - name: UBASE_10
+        width: 10
+        length: 10
+        groups: 1
+#END TUNNELS
+
+#BEGIN ENTRY POINTS
+      - name: UBASE_04
+        width: 10
+        length: 10
+        groups: 2
+        revealedFloors: 1
+      - name: UBASE_04b
+        width: 10
+        length: 10
+        groups: 2
+#END ENTRY POINTS
+
+#BEGIN ALIEN BASE CONTROL
+      - name: UBASE_00
+        width: 20
+        length: 20
+        groups: 3
+      - name: UBASE_00b
+        width: 20
+        length: 20
+        groups: 3
+#END ALIEN BASE CONTROL
+
+#BEGIN ALIEN BRAIN
+      - name: UBASE_15
+        width: 20
+        length: 20
+        groups: 4
+#END ALIEN BRAIN
+
+#BEGIN ALIEN SPECIAL FACILITY
+#COM
+      - name: UBASE_18
+        width: 20
+        length: 20
+#CLONE TANKS
+      - name: UBASE_19
+        width: 20
+        length: 20
+#CLONE LAB
+      - name: UBASE_21
+        width: 20
+        length: 20
+        groups: 5
+#ENERGY
+      - name: UBASE_03
+        width: 20
+        length: 20
+#SCOUTS MODUL
+      - name: UBASE_20
+        width: 20
+        length: 20
+#END ALIEN SPECIAL FACILITY
+
+#BEGIN FORT
+      - name: UBASE_06
+        width: 10
+        length: 10
+        groups: 7
+      - name: UBASE_06b
+        width: 10
+        length: 10
+        groups: 7
+      - name: UBASE_06c
+        width: 10
+        length: 10
+        groups: 7
+      - name: UBASE_16
+        width: 10
+        length: 10
+#END FORT
+
+#BEGIN ENERGY
+      - name: UBASE_12
+        width: 10
+        length: 10
+        groups: 8
+      - name: UBASE_12b
+        width: 10
+        length: 10
+        groups: 8
+#END ENERGY
+
+#BEGIN ENTERTAINMENT
+      - name: UBASE_11
+        width: 10
+        length: 10
+        groups: 6
+      - name: UBASE_11b
+        width: 10
+        length: 10
+        groups: 6
+      - name: UBASE_11c
+        width: 10
+        length: 10
+        groups: 6
+#END ENTERTAINMENT
+
+#BEGIN SMALL STORAGE
+      - name: UBASE_08
+        width: 10
+        length: 10
+      - name: UBASE_08b
+        width: 10
+        length: 10
+      - name: UBASE_05
+        width: 10
+        length: 10
+      - name: UBASE_05b
+        width: 10
+        length: 10
+      - name: UBASE_13
+        width: 10
+        length: 10
+      - name: UBASE_17
+        width: 10
+        length: 10
+      - name: UBASE_17b
+        width: 10
+        length: 10
+#END SMALL STORAGE
+
+#BEGIN LARGE STORAGE
+      - name: UBASE_02
+        width: 20
+        length: 20
+      - name: UBASE_02b
+        width: 20
+        length: 20
+      - name: UBASE_02c
+        width: 20
+        length: 20
+#END LARGE STORAGE
+
+#BEGIN SMALL GARDENS
+      - name: UBASE_14
+        width: 10
+        length: 10
+      - name: UBASE_09
+        width: 10
+        length: 10
+      - name: UBASE_09b
+        width: 10
+        length: 10
+      - name: UBASE_09c
+        width: 10
+        length: 10
+      - name: UBASE_09d
+        width: 10
+        length: 10
+#END SMALL GARDENS
+
+#BEGIN LARGE GARDENS
+      - name: UBASE_01
+        width: 20
+        length: 20
+      - name: UBASE_01b
+        width: 20
+        length: 20
+      - name: UBASE_01c
+        width: 20
+        length: 20
+#END LARGE GARDENS
