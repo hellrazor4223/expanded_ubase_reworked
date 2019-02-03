@@ -1,22 +1,18 @@
 alienDeployments:
+#BEGIN ALIEN BASE
   - type: STR_ALIEN_BASE_ASSAULT
     width: 60
     length: 60
     height: 2
-    terrains:
-      - UBASE
     shade: 10
     script: ALIENBASE
-    briefing:
-      textOffset: -16
-      background: BACK01.SCR
-      showTarget: false
-    objectiveType: 3
-    markerName: STR_ALIEN_BASE
-    markerIcon: 7
-    genMissionType: STR_ALIEN_SUPPLY
-    genMissionFreq: 6
-    alienBase: true # this is only to tell new battle mode what to do with this deployment
-    objectivesRequired: 16
-    objectiveComplete: [STR_ALIEN_BASE_CONTROL_DESTROYED, 500]
-    objectivePopup: STR_CONTROL_CENTER_DESTROYED
+#END ALIEN BASE
+
+#BEGIN MARS THE FINAL ASSAULT
+  - type: STR_MARS_THE_FINAL_ASSAULT
+    width: 80
+    length: 80
+    height: 2
+    shade: 10
+    script: BOSSBATTLE
+#END MARS THE FINAL ASSAULT
