@@ -1,7 +1,25 @@
 Changelog:
 
 Version 1.3
- - Adjusted Ruleset to lastest changes in : openxcom_git_master_2016_06_15_0013
+ - Added turned Versions for: UBASE_00
+ - Added turned Versions for: UBASE_01
+ - Added alternate/turned Version 1 for: UBASE_01
+ - Added alternate/turned Version 2 for: UBASE_01
+ - Added turned Versions for: UBASE_02
+ - Added turned Versions for: UBASE_03
+ - Added turned Versions for: UBASE_04
+ - Added turned Versions for: UBASE_05
+ - Added turned Versions for: UBASE_06
+ - Added turned Versions for: UBASE_08
+ - Added turned Versions for: UBASE_11
+ - Added turned Versions for: UBASE_15
+ - Added turned Versions for: EXPANDEDUBASE16
+ - Added turned Versions for: EXPANDEDUBASE17
+ - Added turned Versions for: EXPANDEDUBASE18 (Fake Brain Room)
+ - Added turned Versions for: EXPANDEDUBASE_19
+ - Optimized Mapscript for Alien Bases
+ - Optimized Mapscript for Cydonia Final Assault
+ - Adjusted Ruleset to lastest changes in : openxcom_git_master_2019_01_30_0421
 
 Version 1.2
  - Converted Ruleset to directory structure
