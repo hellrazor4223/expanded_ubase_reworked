@@ -16,10 +16,13 @@ Version 1.3
  - Added turned Versions for: EXPANDEDUBASE16
  - Added turned Versions for: EXPANDEDUBASE17
  - Added turned Versions for: EXPANDEDUBASE18 (Fake Brain Room)
- - Added turned Versions for: EXPANDEDUBASE_19
+ - Added turned Versions for: EXPANDEDUBASE_19 (Food Processing)
+ - Added turned Versions for: EXPANDEDUBASE_20 (Scout Ship Module)
+ - Added turned Versions for: EXPANDEDUBASE_21 (Clone Lab)
  - Optimized Mapscript for Alien Bases
  - Optimized Mapscript for Cydonia Final Assault
- - Adjusted Ruleset to lastest changes in : openxcom_git_master_2019_01_30_0421
+ - Rechecked some Routes and Nodes
+ - Adjusted Ruleset to lastest changes in : openxcom_git_master_2019_02_04_1901
 
 Version 1.2
  - Converted Ruleset to directory structure

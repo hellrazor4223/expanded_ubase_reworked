@@ -6,7 +6,7 @@ Credits go to:
  - Hobbes for fixing the MCD files, and alot of answer to my mapscripting Questions.
  - Solarius Scorch for UBASE_09d modules which he so generously commited ;)
 
-Requiered: openxcom_git_master_2019_01_30_0421 or newer
+Requiered: openxcom_git_master_2019_02_04_1901 or newer
 
 README for Version 1.3:
 

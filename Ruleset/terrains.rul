@@ -352,13 +352,13 @@ terrains:
       - name: EXPANDEDUBASE_21 #97 #Clone Lab N
         width: 20
         length: 20
-      - name: EXPANDEDUBASE_21b #97 #Clone Lab E
+      - name: EXPANDEDUBASE_21b #98 #Clone Lab E
         width: 20
         length: 20
-      - name: EXPANDEDUBASE_21c #97 #Clone Lab S
+      - name: EXPANDEDUBASE_21c #99 #Clone Lab S
         width: 20
         length: 20
-      - name: EXPANDEDUBASE_21d #97 #Clone Lab W
+      - name: EXPANDEDUBASE_21d #100 #Clone Lab W
         width: 20
         length: 20
 #END EXPANDED UBASE
