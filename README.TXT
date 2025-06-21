@@ -44,6 +44,7 @@ Easiest way is to post in the forum here: https://openxcom.org/forum/index.php/t
 CHANGELOG:
 
 Version 1.4:
+ - Fix Equipment pile spawning on Elevator tile
  - Fix wrong maptiles on EXPNADEDUBASE_21b/d
  - Fix Armor values for Groundtiles in Alien Bases (Silacoids...)
 
