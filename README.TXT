@@ -8,7 +8,7 @@ Credits go to:
 
 Requiered: openxcom_git_master_2019_02_04_1901 or newer
 
-README for Version 1.3:
+README for Version 1.4:
 
 luke83 original work inspired me to rework and bugfix his original maps.
 After that the collection of maps grew over time and now including the vanilla UBASE maps,

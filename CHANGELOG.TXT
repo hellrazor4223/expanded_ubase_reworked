@@ -1,6 +1,9 @@
 Changelog:
 
-Version 1.3
+Version 1.4:
+ - Fix Armor values for Groundtiles in Alien Bases (Silacoids...)
+
+Version 1.3:
  - Added turned Versions for: UBASE_00
  - Added turned Versions for: UBASE_01
  - Added alternate/turned Version 1 for: UBASE_01
@@ -24,7 +27,7 @@ Version 1.3
  - Rechecked some Routes and Nodes
  - Adjusted Ruleset to lastest changes in : openxcom_git_master_2019_02_04_1901
 
-Version 1.2
+Version 1.2:
  - Converted Ruleset to directory structure
  - Slight redesign of UBASE_2c
 
@@ -36,7 +39,7 @@ Version 1.1
  - added README.TXT
  - added CHANGELOG.TXT
 
-Version 1.0
+Version 1.0:
  - Converted old Ruleset to new mapscripting standard
  - UBASE_2.MCD corruption fix (thanks to Hobbes)
  - MAP routing/nodes check, fix and rework where neccessary
